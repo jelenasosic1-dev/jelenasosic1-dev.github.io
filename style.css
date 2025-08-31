@@ -1,0 +1,55 @@
+h1 {
+  color: red;
+  font-family: Verdana;
+  margin: 20px;
+  padding: 20px;
+}
+
+p {
+  color: blue;
+  margin: 10px;
+  padding: 10px;
+}
+
+body {
+  background-color: lightgray;
+}
+
+li {
+  color: green;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: purple;
+}
+
+table, tr, td {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  padding: 10px;
+}
+
+img {
+  width: 400px;
+  border-radius: 10px;
+  display: block;
+  margin: auto;
+}
+
+ul {
+  list-style-type: square;
+}
+
+ol {
+  list-style-type: upper-roman;
+}
